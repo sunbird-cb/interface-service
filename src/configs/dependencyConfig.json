@@ -1,0 +1,14 @@
+{
+	"requiredDependencies": [
+		{
+			"packageName": "sunbird-user",
+			"dependencies": [{ "name": "kafka" }]
+		}
+	],
+	"supportedDependencies": [
+		{
+			"name": "kafka",
+			"packageName": "elevate-kafka"
+		}
+	]
+}
